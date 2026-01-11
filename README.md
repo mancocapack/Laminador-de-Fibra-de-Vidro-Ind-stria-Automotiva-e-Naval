@@ -97,10 +97,209 @@ Laminador experiente com sólida trajetória na indústria automotiva e naval, e
 
 ---
 
+## HABILIDADES TÉCNICAS DETALHADAS
+
+### **1. TÉCNICAS DE LAMINAÇÃO**
+
+**Hand Lay-up (Laminação Manual):**
+- Aplicação de camadas de fibra de vidro com rolo e pincel
+- Controle de espessura das camadas
+- Remoção de bolhas de ar durante aplicação
+- Compactação adequada das camadas
+- Controle do tempo de cura (gel time)
+
+**Processos Completos:**
+- Preparação e limpeza de moldes
+- Aplicação de desmoldante (cera e PVA)
+- Aplicação de gel coat (quando necessário)
+- Laminação em múltiplas camadas
+- Desmoldagem de peças
+- Acabamento pós-laminação
+
+---
+
+### **2. MATERIAIS E CONHECIMENTOS**
+
+**Resinas:**
+- Resina Poliéster (ortoftálica e isoftálica)
+- Conhecimento de proporções corretas de catalisador
+- Controle de tempo de gel e cura
+- Ajuste de viscosidade
+
+**Catalisadores e Aceleradores:**
+- Dosagem correta de MEK Peróxido (catalisador)
+- Uso de acelerador (cobalto) quando necessário
+- Controle de proporções para diferentes temperaturas
+- Conhecimento de tempo de trabalho (pot life)
+
+**Fibras de Vidro:**
+- Mantas (chopped strand mat) - 300g, 450g, 600g
+- Tecidos (woven roving)
+- Roving (fios contínuos)
+- Conhecimento de gramatura adequada para cada aplicação
+- Corte e preparação de fibras
+
+**Outros Materiais:**
+- Gel coat (acabamento superficial)
+- Desmoldantes (cera e PVA)
+- Cargas e aditivos (talco, microfibras)
+- Resinas de acabamento
+
+---
+
+### **3. CORTE E USINAGEM**
+
+**Habilidades em Corte:**
+- Corte preciso de laminados de madeira
+- Corte de fibra de vidro curada
+- Corte de tecidos e mantas antes da laminação
+- Uso de gabaritos e templates
+- Controle dimensional rigoroso
+- Marcação e traçagem de peças
+
+**Ferramentas Utilizadas:**
+- Serra circular
+- Serra tico-tico
+- Esmerilhadeira angular
+- Discos de corte para compósitos
+- Tesouras para fibra de vidro
+- Estiletes e facas industriais
+
+---
+
+### **4. ACABAMENTO E FINALIZAÇÃO**
+
+**Lixamento:**
+- Manual e com lixadeira orbital
+- Lixas grão 80, 120, 180, 220, 320, 400, 600
+- Lixamento a seco e úmido
+- Acabamento progressivo de superfícies
+
+**Rebarbagem:**
+- Remoção de rebarbas com esmerilhadeira
+- Acabamento de bordas
+- Corte de excessos de resina
+
+**Polimento:**
+- Polimento fino de peças automotivas
+- Preparação de superfícies para pintura
+- Acabamento espelhado quando necessário
+
+**Retoque e Correção:**
+- Aplicação de massa poliéster
+- Correção de imperfeições
+- Reforço de áreas danificadas
+
+---
+
+### **5. MOLDES E PREPARAÇÃO**
+
+**Trabalho com Moldes:**
+- Preparação e manutenção de moldes
+- Aplicação de desmoldante
+- Identificação e correção de problemas em moldes
+- Trabalho com moldes de argila (AUTOSFIBRA)
+- Moldes de fibra de vidro e madeira
+- Cuidados com ângulo de desmoldagem
+- Limpeza e conservação
+
+---
+
+### **6. CONTROLE DE QUALIDADE**
+
+**Inspeções Realizadas:**
+- Verificação de espessura das laminações
+- Identificação de bolhas e delaminações
+- Controle dimensional das peças
+- Inspeção visual de acabamento
+- Teste de dureza superficial
+- Verificação de cura completa
+
+**Padrões de Qualidade:**
+- Padrão automotivo (alta precisão - AUTOSFIBRA)
+- Padrão naval (resistência e durabilidade)
+- Acabamento fino para peças visíveis
+- Controle de peso das peças
+
+---
+
+### **7. FERRAMENTAS E EQUIPAMENTOS**
+
+**Ferramentas Manuais:**
+- Rolos de laminação (vários tamanhos)
+- Pincéis e trincha
+- Espátulas e desempenadeiras
+- Raspadores
+- Réguas e esquadros
+
+**Ferramentas Elétricas:**
+- Lixadeira orbital e angular
+- Furadeira
+- Serra circular e tico-tico
+- Politriz (para acabamento automotivo)
+- Esmerilhadeira
+
+**Equipamentos de Medição:**
+- Trena, paquímetro, esquadro
+- Nível
+- Calibrador de espessura
+
+---
+
+### **8. TIPOS DE PEÇAS FABRICADAS**
+
+**Indústria Automotiva (AUTOSFIBRA):**
+- Carrocerias completas de réplicas de carros esportivos
+- Capôs, para-lamas, portas
+- Painéis internos e externos
+- Peças de acabamento automotivo
+- Componentes estruturais
+
+**Indústria Naval (NHD Boats e Sedna Group):**
+- Cascos de embarcações
+- Conveses e anteparas
+- Peças estruturais de barcos
+- Componentes náuticos diversos
+- Tanques de combustível
+
+**Outras Aplicações:**
+- Peças sob medida
+- Reparos e restaurações
+- Protótipos
+
+---
+
+### **9. SEGURANÇA E EPIs**
+
+**Equipamentos de Proteção Individual:**
+- Máscara respiratória (proteção contra vapores de estireno)
+- Luvas nitrílicas
+- Óculos de proteção
+- Avental ou macacão
+- Botas de segurança
+- Protetor auricular (quando necessário)
+
+**Conhecimentos de Segurança:**
+- Manuseio seguro de produtos químicos
+- Ventilação adequada do ambiente
+- Armazenamento correto de resinas e catalisadores
+- Descarte adequado de resíduos
+- Primeiros socorros básicos
+- Prevenção de incêndios (resinas são inflamáveis)
+
+---
+
 ## EXPERIÊNCIAS COMPLEMENTARES
 
 **Porteiro** - Associação de Voo Livre do Morro do Careca  
 **Contínuo** - A.F.H. Associação de Apoio às Famílias
+
+**Outras Habilidades:**
+- Corte / Solda
+- Acabamento
+- Injeção Plástica
+- Sopragem
+- Auxiliar Administrativo
 
 ---
 
@@ -112,240 +311,28 @@ Laminador experiente com sólida trajetória na indústria automotiva e naval, e
 ✓ **Conhecimento em corte de laminados**  
 ✓ **Trabalho com peças de alta precisão e acabamento fino**  
 ✓ **Experiência com diferentes setores** (automotivo e naval)  
+✓ **Versatilidade e adaptação rápida**  
 ✓ **Capacidade de trabalho em equipe**  
-✓ **Comprometimento e pontualidade**
+✓ **Comprometimento e pontualidade**  
+✓ **Produtividade em ambiente industrial**
 
 ---
 
-## DISPONIBILIDADE
+## CAPACIDADES ESPECÍFICAS
 
-**Imediata** para início das atividades
-
----
----
-
-# HABILIDADES TÉCNICAS DETALHADAS
-
----
-
-## 1. LAMINAÇÃO DE FIBRA DE VIDRO
-
-### Técnicas de Laminação Dominadas:
-- **Hand Lay-up (Laminação Manual)** - Técnica principal utilizada em todos os projetos
-- Aplicação de camadas de fibra de vidro com rolo e pincel
-- Controle de espessura das camadas
-- Remoção de bolhas de ar durante aplicação
-- Compactação adequada das camadas
-
-### Processos de Trabalho:
-- Preparação e limpeza de moldes
-- Aplicação de desmoldante (cera e PVA)
-- Aplicação de gel coat (quando necessário)
-- Laminação em múltiplas camadas
-- Controle do tempo de cura (gel time)
-- Desmoldagem de peças
-- Acabamento pós-laminação
-
----
-
-## 2. MATERIAIS E RESINAS
-
-### Resinas:
-- **Resina Poliéster** - Material principal de trabalho
-  - Resina ortoftálica
-  - Resina isoftálica
-  - Conhecimento de proporções corretas de catalisador
-  - Controle de tempo de gel e cura
-  - Ajuste de viscosidade
-
-### Catalisadores e Aceleradores:
-- Dosagem correta de MEK Peróxido (catalisador)
-- Uso de acelerador (cobalto) quando necessário
-- Controle de proporções para diferentes temperaturas
-- Conhecimento de tempo de trabalho (pot life)
-
-### Fibras de Vidro:
-- **Mantas** (chopped strand mat) - 300g, 450g, 600g
-- **Tecidos** (woven roving)
-- **Roving** (fios contínuos)
-- Conhecimento de gramatura adequada para cada aplicação
-- Corte e preparação de fibras
-
-### Outros Materiais:
-- Gel coat (acabamento superficial)
-- Desmoldantes (cera e PVA)
-- Cargas e aditivos (talco, microfibras)
-- Resinas de acabamento
-
----
-
-## 3. CORTE DE LAMINADOS
-
-### Habilidades em Corte:
-- Corte preciso de laminados de madeira
-- Corte de fibra de vidro curada
-- Corte de tecidos e mantas antes da laminação
-- Uso de gabaritos e templates
-- Controle dimensional rigoroso
-- Marcação e traçagem de peças
-
-### Ferramentas de Corte:
-- Serra circular
-- Serra tico-tico
-- Esmerilhadeira angular
-- Discos de corte para compósitos
-- Tesouras para fibra de vidro
-- Estiletes e facas industriais
-
----
-
-## 4. ACABAMENTO E FINALIZAÇÃO
-
-### Processos de Acabamento:
-- **Lixamento** - Manual e com lixadeira
-  - Lixas grão 80, 120, 180, 220, 320, 400, 600
-  - Lixamento a seco e úmido
-  - Acabamento progressivo de superfícies
-  
-- **Rebarbagem**
-  - Remoção de rebarbas com esmerilhadeira
-  - Acabamento de bordas
-  - Corte de excessos de resina
-
-- **Polimento**
-  - Polimento fino de peças automotivas
-  - Preparação de superfícies para pintura
-  - Acabamento espelhado quando necessário
-
-- **Retoque e Correção**
-  - Aplicação de massa poliéster
-  - Correção de imperfeições
-  - Reforço de áreas danificadas
-
----
-
-## 5. MOLDES E PREPARAÇÃO
-
-### Trabalho com Moldes:
-- Preparação e manutenção de moldes
-- Aplicação de desmoldante
-- Identificação e correção de problemas em moldes
-- Trabalho com moldes de argila (AUTOSFIBRA)
-- Moldes de fibra de vidro
-- Moldes de madeira
-
-### Conhecimentos:
-- Importância do ângulo de desmoldagem
-- Cuidados com a superfície do molde
-- Limpeza e conservação
-- Identificação de desgaste
-
----
-
-## 6. CONTROLE DE QUALIDADE
-
-### Inspeções Realizadas:
-- Verificação de espessura das laminações
-- Identificação de bolhas e delaminações
-- Controle dimensional das peças
-- Inspeção visual de acabamento
-- Teste de dureza superficial
-- Verificação de cura completa
-
-### Padrões de Qualidade:
-- Experiência com padrão automotivo (alta precisão - AUTOSFIBRA)
-- Padrão naval (resistência e durabilidade)
-- Acabamento fino para peças visíveis
-- Controle de peso das peças
-
----
-
-## 7. SEGURANÇA E EPIs
-
-### Equipamentos de Proteção Individual:
-- Máscara respiratória (proteção contra vapores de estireno)
-- Luvas nitrílicas
-- Óculos de proteção
-- Avental ou macacão
-- Botas de segurança
-- Protetor auricular (quando necessário)
-
-### Conhecimentos de Segurança:
-- Manuseio seguro de produtos químicos
-- Ventilação adequada do ambiente
-- Armazenamento correto de resinas e catalisadores
-- Descarte adequado de resíduos
-- Primeiros socorros básicos
-- Prevenção de incêndios (resinas são inflamáveis)
-
----
-
-## 8. FERRAMENTAS E EQUIPAMENTOS
-
-### Ferramentas Manuais:
-- Rolos de laminação (vários tamanhos)
-- Pincéis e trincha
-- Espátulas
-- Desempenadeiras
-- Raspadores
-- Réguas e esquadros
-
-### Ferramentas Elétricas:
-- Lixadeira orbital
-- Lixadeira angular (esmerilhadeira)
-- Furadeira
-- Serra circular
-- Serra tico-tico
-- Politriz (para acabamento automotivo)
-
-### Equipamentos de Medição:
-- Trena
-- Paquímetro
-- Esquadro
-- Nível
-- Calibrador de espessura
-
----
-
-## 9. TIPOS DE PEÇAS JÁ FABRICADAS
-
-### Indústria Automotiva (AUTOSFIBRA):
-- Carrocerias completas de réplicas de carros esportivos
-- Capôs, para-lamas, portas
-- Painéis internos e externos
-- Peças de acabamento automotivo
-- Componentes estruturais
-
-### Indústria Naval (NHD Boats e Sedna Group):
-- Cascos de embarcações
-- Conveses
-- Anteparas
-- Peças estruturais de barcos
-- Componentes náuticos diversos
-- Tanques de combustível
-
-### Outras Aplicações:
-- Peças sob medida
-- Reparos e restaurações
-- Protótipos
-
----
-
-## 10. CAPACIDADES ESPECÍFICAS
-
-### Produtividade:
+**Produtividade:**
 - Capacidade de trabalhar com metas de produção
 - Organização do posto de trabalho
 - Otimização de tempo de cura
 - Trabalho em linha de produção
 
-### Versatilidade:
+**Versatilidade:**
 - Adaptação a diferentes tipos de projetos
 - Trabalho com peças pequenas e grandes
 - Flexibilidade entre setores (automotivo e naval)
 - Aprendizado rápido de novos processos
 
-### Trabalho em Equipe:
+**Trabalho em Equipe:**
 - Experiência em ambiente fabril
 - Colaboração com outros laminadores
 - Comunicação efetiva com supervisores
@@ -353,36 +340,19 @@ Laminador experiente com sólida trajetória na indústria automotiva e naval, e
 
 ---
 
-## 11. CONHECIMENTOS COMPLEMENTARES
+## DISPONIBILIDADE
 
-### Processos Relacionados:
-- Corte / Solda (mencionado no seu perfil)
-- Acabamento geral
-- Injeção plástica (experiência prévia)
-- Sopragem (experiência prévia)
-- Auxiliar administrativo (experiência prévia)
+**Imediata** para início das atividades
 
-### Diferenciais:
-- Experiência em empresa de referência (AUTOSFIBRA)
-- Trabalho com peças de alto valor agregado
-- Conhecimento em múltiplos setores
-- Rapidez no aprendizado de novas técnicas
+**Disponível para demonstração prática das habilidades**
 
 ---
 
-## RESUMO DAS COMPETÊNCIAS PRINCIPAIS
-
-✓ **Laminação manual (hand lay-up)** - Técnica principal  
-✓ **Resina poliéster** - Material de domínio completo  
-✓ **Fibra de vidro** - Todos os tipos (mantas, tecidos, roving)  
-✓ **Acabamento fino** - Experiência automotiva de alta precisão  
-✓ **Corte de laminados** - Precisão e controle dimensional  
-✓ **Controle de qualidade** - Inspeção rigorosa  
-✓ **Segurança** - Manuseio correto de produtos químicos  
-✓ **Versatilidade** - Automotivo e naval  
-✓ **Produtividade** - Experiência em ambiente industrial  
+**Contato:**  
+📱 (92) 98591-4105  
+📧 devfullapp@gmail.com  
+📍 Manaus, AM
 
 ---
 
-**Disponível para demonstração prática das habilidades**  
-**Contato:** (92) 98591-4105 | devfullapp@gmail.com
+*Currículo profissional completo*
