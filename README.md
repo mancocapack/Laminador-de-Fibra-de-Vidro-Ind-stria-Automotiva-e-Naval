@@ -21,7 +21,12 @@ Vaga de **Laminador** com experiência comprovada em laminação de fibra de vid
 
 ## RESUMO PROFISSIONAL
 
-Laminador experiente com sólida trajetória na indústria automotiva e naval, especializado em laminação de fibra de vidro com resina poliéster. Domínio completo do processo de fabricação, desde a preparação de moldes até o acabamento final de peças de alta precisão. Experiência comprovada na AUTOSFIBRA (indústria automotiva de réplicas), NHD Boats e Sedna Group (construção naval), com habilidades em laminação manual (hand lay-up), corte de laminados, aplicação de gel coat, acabamento fino e controle de qualidade. Conhecimento profundo em manuseio seguro de resinas, catalisadores e fibra de vidro, com comprometimento às normas de segurança. Profissional versátil, capaz de trabalhar com diferentes tipos de projetos, desde peças automotivas de alto padrão até componentes náuticos complexos.
+Laminador experiente com sólida trajetória na indústria automotiva e naval, especializado em laminação de fibra de vidro com resina poliéster. Domínio completo do processo de fabricação, desde a preparação de moldes até o acabamento final de peças de alta precisão. 
+
+Experiência comprovada na AUTOSFIBRA (indústria automotiva de réplicas). 
+NHD Boats e Sedna Group (construção naval), com habilidades em laminação manual (hand lay-up), corte de laminados, aplicação de gel coat, acabamento fino e controle de qualidade. 
+
+Conhecimento profundo em manuseio seguro de resinas, catalisadores e fibra de vidro, com comprometimento às normas de segurança. Profissional versátil, capaz de trabalhar com diferentes tipos de projetos, desde peças automotivas de alto padrão até componentes náuticos complexos.
 
 ---
 
